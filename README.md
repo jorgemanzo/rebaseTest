@@ -1,2 +1,2 @@
 # rebaseTest
-Playing with the rebase command
+Playing with the rebase command. Birds are cool!
